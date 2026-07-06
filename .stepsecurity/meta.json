@@ -1,0 +1,18 @@
+{
+   "schema_version": "1",
+   "onboarding_type": "copied",
+   "archived": true,
+   "maintained_action_name": "step-security/sonarqube-github-c-cpp",
+   "upstream_full_repo_name": "sonarsource/sonarqube-github-c-cpp",
+   "action_type": "composite",
+   "last_release": {
+     "tag_name": "v2.1.0",
+     "created_at": "2026-06-15T13:20:46Z",
+     "published_at": "2026-06-15T14:41:45Z"
+   },
+   "sync": {
+     "ignore_presets": [
+       "defaults_v1"
+     ]
+   }
+ }
